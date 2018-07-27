@@ -83,9 +83,6 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
     }
 
     
-    
-    
-    
     //MARK: - JSON Parsing
     /***************************************************************/
     
